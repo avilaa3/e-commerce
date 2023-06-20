@@ -33,10 +33,10 @@ export function Footer() {
   const contactsLinks: SectionInfo = {
     title: 'Contact Us',
     links: [
-      { title: 'Ukraine, Kyiv,Khreshchatyk 1', href: '#', icon: PhoneIcon},
-      { title: '+38 (050) 12 34 567', href: '#', icon: LocationIcon },
+      { title: 'México, Avila, Abraham', href: '#', icon: PhoneIcon},
+      { title: '+52 (722) 312 7827', href: '#', icon: LocationIcon },
       { title: 'All week 24/7', href: '#', icon: ClockIcon },
-      { title: 'mail@company.com', href: '#', icon: MailIcon },
+      { title: 'contacto@impactdesign.com.mx', href: '#', icon: MailIcon },
     ],
   };
 
